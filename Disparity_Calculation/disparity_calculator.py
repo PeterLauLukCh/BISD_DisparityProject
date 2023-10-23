@@ -60,7 +60,7 @@ def Read_In():
                 if value and value != '(S)':
                     probabilities_row.append(float(value) / 100)
                 else:
-                    #if the probablities is 0
+                    #if the probability y_{i} belongs to certain race is 0
                     probabilities_row.append(0)
                 
             race_probabilities.append(probabilities_row)
