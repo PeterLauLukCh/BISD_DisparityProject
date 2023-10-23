@@ -6,8 +6,10 @@ race = ["White","Black","API","AIAN","2prace","Hispanic"]
 with open('/Users/chenpeter/Downloads/Names_2010Census.csv', 'r') as csvfile:
     csvreader = csv.reader(csvfile)
     next(csvreader, None)
-
+    
     for row in csvreader:
+        if(row[0] == 'name'):
+            continue
         frequency.append(int(row[2]))
         probabilities_row = []
         for i in range(5, 11):  
