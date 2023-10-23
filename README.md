@@ -1,4 +1,4 @@
-# Calculation Result of Raking-based BISG Model
+# Disparity Calculation Result of Raking-based BISG Model
 
 The project is primarily based on the result from Dr. Philip Greengard and Dr. Andrew Gelman's research *BISG: When inferring race or ethnicity, does it matter that people often live near their relatives?* (https://arxiv.org/pdf/2304.09126.pdf), aiming to estimate the specific number of voters in each race.
 
@@ -18,4 +18,5 @@ Now, given a set of surnames $Y$, which contains $y_{1}, y_{2}, ..., y_{n}$, eac
 $\text{Num of White} = fr(y_{1})\cdot Pr(y_1 \text{ is white}) + fr(y_{2})\cdot Pr(y_2 \text{ is white}) + \ldots + fr(y_{n})\cdot Pr(y_n \text{ is white})$
 </p>
 
-Calculation procedures are in Calculation.py and results is in Results.txt.
+## Disparity Calculator
+This folder contains 2 file: 
