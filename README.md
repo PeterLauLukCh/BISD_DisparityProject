@@ -1,4 +1,4 @@
-# Maximum Likelihood Estimation of Poisson Binomial Distribution to Normal Distribution: A Fast Algorithm to Estimate Confidence Interval of BISD Result
+# Calculation Result of Ranking-based BISD Model
 
 The project is primarily based on the result from Dr. Philip Greengard and Dr. Andrew Gelman's research *BISG: When inferring race or ethnicity, does it matter that people often live near their relatives?* (https://arxiv.org/pdf/2304.09126.pdf). 
 
