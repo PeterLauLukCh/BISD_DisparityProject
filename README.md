@@ -18,4 +18,4 @@ Now, given a set of surnames $Y$, which contains $y_{1}, y_{2}, ..., y_{n}$, eac
 $\text{Num of White} = fr(y_{1})\cdot Pr(y_1 \text{ is white}) + fr(y_{2})\cdot Pr(y_2 \text{ is white}) + \ldots + fr(y_{n})\cdot Pr(y_n \text{ is white})$
 </p>
 
-Calculation procedures are in Calculation.py and results is in results.txt
+Calculation procedures are in Calculation.py and results is in Results.txt.
