@@ -1,4 +1,4 @@
-# Disparity Calculation Result of Raking-based Bayesian Improved Surname Geocoding (BISG) Model
+# Disparity Calculation of Raking-based Bayesian Improved Surname Geocoding (BISG) Model
 
 The project is primarily based on the result from Dr. Philip Greengard and Dr. Andrew Gelman's research *BISG: When inferring race or ethnicity, does it matter that people often live near their relatives?* (https://arxiv.org/pdf/2304.09126.pdf), aiming to estimate the specific number of voters in each race.
 
